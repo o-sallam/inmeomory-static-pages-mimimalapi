@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Criticaldev.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3bb7d6c4f43139868d404ac5a1e5ffb9b43c7eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d427d818416b3ddf76d15920ac1105fe0d1c24e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Criticaldev.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Criticaldev.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
