@@ -1,0 +1,6 @@
+@Criticaldev.API_HostAddress = http://localhost:5116
+
+GET {{Criticaldev.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
